@@ -1,4 +1,5 @@
 // ESP Group 46 - Technical Demonstration 3
+// Author: Ishaan Ghatak
 
 #include "QEI.h"
 #include "C12832.h"
