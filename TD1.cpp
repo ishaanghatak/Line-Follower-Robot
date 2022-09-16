@@ -1,4 +1,4 @@
-// ESP Group 46 - TD1
+// ESP Group 46 - Technical Demonstration 1
 
 // Directives to include the necessary header files.
 #include "C12832.h" 
