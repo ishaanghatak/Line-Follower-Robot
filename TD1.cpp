@@ -1,4 +1,5 @@
 // ESP Group 46 - Technical Demonstration 1
+// Author: Ishaan Ghatak
 
 // Directives to include the necessary header files.
 #include "C12832.h" 
