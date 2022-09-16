@@ -1,5 +1,5 @@
 # Embedded Systems Project
-## Author: Ishaan Ghatak - Team Manager, Group 46
+**Author: Ishaan Ghatak - Team Manager, Group 46**
 
 This repository contains the source code for each of the technical demonstrations, created by members of ESP Group 46 (2021-2022).
 THe project makes use of the Mbed OS online compiler to connect to 32-bit ARM Cortex-M microcontrollers.
