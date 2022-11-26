@@ -1,5 +1,4 @@
 # Embedded Systems Project
-**Author: Ishaan Ghatak - Group 46**
 
 This repository contains the source code for each technical demonstration created for a university project developing an autonomous line-following buggy.
 The project uses the Mbed OS online compiler platform to connect to 32-bit ARM Cortex-M microcontrollers.
