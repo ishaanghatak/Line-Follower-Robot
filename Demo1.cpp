@@ -1,4 +1,4 @@
-// ESP Group 46 - Technical Demonstration 1
+// Demonstration 1
 // Author: Ishaan Ghatak
 
 // Directives to include the necessary header files.
