@@ -1,4 +1,4 @@
-// ESP Group 46 - Technical Demonstration 2
+// Demonstration 2
 // Author: Ishaan Ghatak
 
 #include "mbed.h"
